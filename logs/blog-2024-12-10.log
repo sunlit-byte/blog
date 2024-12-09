@@ -1,0 +1,3 @@
+time="2024-12-10 00:00:53" level=error msg="ping database failed. err: Error 1049 (42000): Unknown database 'blog'"
+time="2024-12-10 00:01:13" level=info msg="this is handler"
+time="2024-12-10 00:07:30" level=info msg="this is handler"
